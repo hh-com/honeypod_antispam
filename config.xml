@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>honeypod_antispam</name>
+    <displayName><![CDATA[Honeypot Antispam (Kontaktformular)]]></displayName>
+    <version><![CDATA[1.1.0]]></version>
+    <description><![CDATA[Schuetzt das Kontaktformular vor Spam-Bots mittels Honeypot-Feldern, Zeitpruefung, Inhalts-Heuristik und Rate-Limiting.]]></description>
+    <author><![CDATA[Harald Huber]]></author>
+    <tab><![CDATA[security_and_fraud]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+    <limited_countries></limited_countries>
+</module>
